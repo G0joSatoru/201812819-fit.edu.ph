@@ -1,0 +1,46 @@
+html{
+    /* height: 2000px; */
+    position: relative;
+    min-height: 100%;
+    padding-bottom: 160px;
+    color: white;
+}
+body{
+    padding: 12rem 5rem 160px 5rem;
+    background-color: #1b1b1b; 
+}
+.navbar-brand {
+    position: relative;
+    
+    width: 170px;
+    left: 15px;
+    background-size: contain;
+
+}
+.navbar-brand img{
+
+ background-color:#ffa31a;   
+}
+.body-theme{
+
+    background-color: #1b1b1b;
+}
+.navbar-theme{
+
+    background-color: #292929 ;
+}
+.navbar{
+
+    background-color: #292929 ;
+
+}
+white-cover {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(255, 0, 0, .5);
+}
